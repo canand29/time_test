@@ -131,3 +131,5 @@ dmypy.json
 .DS_Store
 Results/*.csv
 
+# Intellij
+/.idea
